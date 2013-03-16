@@ -9,6 +9,7 @@ decorator
 def
 dictionary
 diversity
+django
 dunder
 explicit
 functools
