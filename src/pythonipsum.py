@@ -1,7 +1,12 @@
+import os
 from loremipsum import Generator
 
-sample = file('data/sample.txt').read()
-dictionary = file('data/dictionary.txt').read().split('\n')
+
+PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
+
+
+sample = file(PROJECT_ROOT+'/data/sample.txt').read()
+dictionary = file(PROJECT_ROOT+'/data/dictionary.txt').read().split('\n')
 g = Generator(sample, dictionary)
 
 
