@@ -19,3 +19,10 @@ def get_paragraph():
 
 def get_paragraphs(amount):
     return [x[-1] for x in g.generate_paragraphs(amount)]
+
+
+if __name__ == '__main__':
+    print("Sentence: %s" % get_sentence())
+    print("Sentences: %s" % get_sentences(5))
+    print("Paragraph: %s" % get_paragraph())
+    print("Paragraphs: %s" % get_paragraphs(5))
