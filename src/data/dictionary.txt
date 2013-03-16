@@ -3,11 +3,14 @@ Arduino
 BDFL
 Cython
 Exception
+gevent
+GIL
 Guido
 Jinja
 NumPy
 PEP
 PyCon
+PyPI
 PyPy
 Pyramid
 RaspberryPi
@@ -28,6 +31,7 @@ django
 dunder
 embedded
 explicit
+for humans
 function
 functools
 future
@@ -39,6 +43,7 @@ implicit
 import
 integration
 itertools
+klass
 kwargs
 list
 list comprehension
@@ -50,10 +55,14 @@ object
 os
 python
 pythonista
+pyladies
+rocksdahouse
 requests
 return
+self
 science
 script
+six
 sys
 test
 tuple
