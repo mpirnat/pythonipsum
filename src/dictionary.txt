@@ -1,0 +1,31 @@
+BDFL
+Guido
+PyCon
+awesome
+class
+community
+context manager
+decorator
+def
+dictionary
+diversity
+dunder
+explicit
+functools
+future
+generator
+generator expression
+honking great
+implicit
+import
+itertools
+list comprehension
+namedtuple
+namespaces
+object
+python
+pythonista
+requests
+tuple
+virtualenv
+zen
