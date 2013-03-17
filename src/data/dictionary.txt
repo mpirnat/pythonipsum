@@ -15,6 +15,7 @@ SciPy
 Twisted
 automation
 awesome
+cheeseshop
 class
 community
 context manager
