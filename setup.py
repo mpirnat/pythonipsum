@@ -17,8 +17,8 @@ setup(
     description="A lorem ipsum generator for the Python world.",
     author="Mike Pirnat",
     author_email="",
-    package=find_packages("src"),
-    package_dir={'': 'src'},
+    packages=['pythonipsum'],
+    package_dir={'pythonipsum': 'src'},
     include_package_data=True,
     zip_safe=False,
     install_requires=[
