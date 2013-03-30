@@ -3,7 +3,6 @@ Arduino
 BDFL
 Cython
 Exception
-gevent
 GIL
 Guido
 Jinja
@@ -38,6 +37,7 @@ functools
 future
 generator
 generator expression
+gevent
 goat
 honking great
 implicit
@@ -54,15 +54,15 @@ namedtuple
 namespaces
 object
 os
+pyladies
 python
 pythonista
-pyladies
-rocksdahouse
 requests
 return
-self
+rocksdahouse
 science
 script
+self
 six
 sys
 test
