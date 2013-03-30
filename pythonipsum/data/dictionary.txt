@@ -17,10 +17,14 @@ SciPy
 Twisted
 automation
 awesome
+beautiful
 cheeseshop
 class
+closure
 community
+comprehension
 context manager
+coroutine
 decorator
 def
 descriptor
@@ -29,6 +33,7 @@ dictionary
 diversity
 django
 dunder
+egg
 embedded
 explicit
 for humans
@@ -46,17 +51,21 @@ integration
 itertools
 klass
 kwargs
+lambda
 list
-list comprehension
+map
 mercurial
 method
 namedtuple
 namespaces
 object
+obvious
 os
 pyladies
 python
 pythonista
+raise
+reduce
 requests
 return
 rocksdahouse
@@ -71,4 +80,6 @@ unit
 virtualenv
 web
 whitespace
+yield
 zen
+zip
