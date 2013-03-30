@@ -18,7 +18,8 @@ setup(
     author="Mike Pirnat",
     author_email="",
     packages=['pythonipsum'],
-    package_dir={'pythonipsum': 'src'},
+    package_dir={'pythonipsum': 'pythonipsum'},
+    package_data={'pythonipsum': ['pythonipsum/data/*.txt']},
     include_package_data=True,
     zip_safe=False,
     install_requires=[
