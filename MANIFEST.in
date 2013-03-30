@@ -1,2 +1,3 @@
-include README.md LICENSE HISTORY.md requirements.txt pythonipsum/data/*.txt
-recursive-include specs
+include README.md LICENSE HISTORY.md requirements.txt
+recursive-include pythonipsum/data *.txt
+recursive-include specs *.py
