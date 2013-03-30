@@ -5,6 +5,12 @@ Guido django diversity namespaces pythonista. Dunder implicit zen future
 python? Generator expression import object! SciPy 2to3 NumPy Jinja list;
 awesome science automation BDFL. Context manager os cheeseshop goat sys?
 
-zen PyPy script class community context manager def descriptor. django dunder
+Zen PyPy script class community context manager def descriptor. django dunder
 function object! Kwargs, itertools, honking great. Git list explicit diversity
 namedtuple namespaces whitespace decorator.
+
+Cython arduino exception, GIL PEP closure! Embedded coroutine virtualenv yield
+beautiful pyramid PyPI. Map obvious pyladies self web test method for humans.
+Twisted PyCon egg gevent six zip raise reduce.
+
+Mercurial lambda klass integration rocksdahouse.
