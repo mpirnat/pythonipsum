@@ -10,6 +10,6 @@ fun and easy project to hack on during PyCon 2013!
 [loremipsum]: http://pythonhosted.org/loremipsum/
 
 Run the tests
-=============
+-------------
 
     $ konira specs/ cover pythonipsum

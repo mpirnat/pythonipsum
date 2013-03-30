@@ -1,1 +1,2 @@
-recursive-include src/data *.txt
+include README.md LICENSE HISTORY.md requirements.txt pythonipsum/data/*.txt
+recursive-include specs
